@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+  font-family: Arimo, Times;
+  color: rgb(223, 15, 32);
+}
+
+h1 {
+  font-style: oblique;
+  font-family: Arimo, Times;
+  color: rgb(240, 240, 247);
+}
+
+img.medium {
+  width: 350px;
+  height: 250px;
+    }
+
+li {
+  margin: 10px 0px 0px 0px;
+}
+
+h2#menu {
+  font-style: bold;
+  font-family: Arimo, Times;
+  color: rgb(20, 20, 131);
+}
+
+p.menu {
+  font-style: bold;
+  font-family: Arimo, Times;
+  color: rgb(117, 117, 206);
+}
